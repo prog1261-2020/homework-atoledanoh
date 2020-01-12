@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  Vector2D.cpp
+  Generating Code...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Google Drive\NBCC GEX\02-Winter20\C++\Homework01\Debug\Homework01a.exe : fatal error LNK1120: 1 unresolved externals
